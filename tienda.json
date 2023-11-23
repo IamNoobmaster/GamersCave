@@ -1,0 +1,189 @@
+[{
+    "_id": {
+      "$oid": "655df7ff5965df7c72b4726b"
+    },
+    "Nombre": "Shingeki",
+    "Precio": 25,
+    "Genero": "RPG",
+    "Reseña": "Encarna a un intrépido miembro del Cuerpo de Exploración mientras enfrentas la amenaza de los titanes. Con gráficos impresionantes y mecánicas de combate intensas, sumérgete en la desesperada lucha por la supervivencia de la humanidad. Explora los misterios detrás de los imponentes muros y descubre tu papel crucial en la batalla contra los gigantes devoradores de hombres. ¿Serás capaz de mantener a salvo la última fortaleza de la humanidad y desvelar los secretos que acechan en las sombras? Prepárate para una experiencia épica en el universo implacable de Shingeki no Kyojin."
+  },
+  {
+    "_id": {
+      "$oid": "655df8f75965df7c72b4726c"
+    },
+    "Nombre": "The Amazing Spiderman 2",
+    "Precio": 150,
+    "Genero": "Accion, RPG",
+    "Reseña": "Sumérgete en las vibrantes calles de Nueva York como el icónico superhéroe arácnido en The Amazing Spider-Man 2. Este juego de acción RPG ofrece una experiencia emocionante al permitir a los jugadores balancearse por la ciudad, enfrentarse a villanos legendarios y descubrir una trama intrincada. Con un sistema de combate fluido y movimientos acrobáticos asombrosos, te sentirás verdaderamente como el Hombre Araña. Además, la trama cautivadora te sumerge en la dualidad de la vida de Peter Parker, explorando su lucha por equilibrar la responsabilidad heroica con los desafíos personales. ¿Estás listo para tejer tu propia historia de heroísmo en el universo de Spider-Man?"
+  },
+  {
+    "_id": {
+      "$oid": "655df9be5965df7c72b4726d"
+    },
+    "Nombre": "Dragon Ball Z",
+    "Precio": 50,
+    "Genero": "Peleas",
+    "Reseña": "Lleva la épica saga de Dragon Ball Z a nuevas alturas en el mundo de los videojuegos de combate. Sumérgete en peleas intensas y espectaculares, donde podrás desatar poderosos ataques, transformaciones y técnicas especiales de los personajes icónicos de la serie. Los gráficos impresionantes capturan la esencia visual del anime, brindando batallas llenas de energía y emoción. Con un extenso elenco de personajes jugables y modos de juego envolventes, desde la historia principal hasta enfrentamientos multijugador, Ultimate Battle es la experiencia definitiva para los fanáticos de Dragon Ball Z que buscan llevar sus habilidades de combate al límite. ¿Estás preparado para convertirte en el guerrero más fuerte del universo?"
+  },
+  {
+    "_id": {
+      "$oid": "655dfa865965df7c72b4726e"
+    },
+    "Nombre": "Down Hill Domination",
+    "Precio": 70,
+    "Genero": "Carreras",
+    "Reseña": "Downhill Domination lleva la emoción de las carreras extremas a las empinadas y peligrosas pendientes de montaña. En este juego de carreras frenéticas, los jugadores pueden experimentar la adrenalina de descensos vertiginosos mientras compiten contra rivales y superan obstáculos desafiantes. Con gráficos impresionantes y entornos realistas, cada pista ofrece una experiencia visualmente impactante. La variedad de bicicletas y la posibilidad de realizar acrobacias añaden capas de diversión y complejidad al juego. Ya sea compitiendo en solitario o desafiando a amigos en el modo multijugador, Downhill Domination ofrece la dosis perfecta de velocidad y emoción para los amantes de las carreras extremas. ¿Estás listo para conquistar las montañas y convertirte en el rey de la bajada?"
+  },
+  {
+    "_id": {
+      "$oid": "655dfccf5965df7c72b47275"
+    },
+    "Nombre": "Marvel's Spiderman",
+    "Precio": 200,
+    "Genero": "Exploracion, RPG, Accion",
+    "Reseña": " Marvels Spider-Man es una experiencia épica que fusiona hábilmente la exploración, las emocionantes peleas y elementos RPG. Sumérgete en la vida dual de Peter Parker y Spider-Man, explorando la expansiva ciudad de Nueva York con la libertad de balanceo entre rascacielos. El sistema de combate dinámico, la progresión de habilidades y la personalización del traje ofrecen una inmersión profunda en el papel del héroe arácnido. Con gráficos impactantes y una narrativa cautivadora, este juego no solo rinde homenaje al legado del Hombre Araña, sino que también establece un estándar en juegos de superhéroes. Vive la experiencia definitiva de Spider-Man mientras luchas contra villanos icónicos y te sumerges en la rica historia de este querido personaje de Marvel."
+  },
+  {
+    "_id": {
+      "$oid": "655eb7a71d507eca8096eb6c"
+    },
+    "Nombre": "God Of War - Ragnarok",
+    "Precio": 150,
+    "Genero": "Mundo abierto, Hack and slash",
+    "Reseña": "God of War: Ragnarok es una odisea mitológica que sigue la épica historia de Kratos y su hijo Atreus mientras se enfrentan a los dioses nórdicos en un viaje épico. Este juego lleva a los jugadores a través de un impresionante mundo de dioses y monstruos, explorando mitos y leyendas nórdicos. Kratos, el espartano convertido en dios, y Atreus, un joven con sorprendentes habilidades, tejen una narrativa envolvente mientras desafían a seres divinos y descubren oscuros secretos. Con combates intensos, resolución de acertijos y una conexión emocional entre padre e hijo, God of War: Ragnarok promete ser una experiencia inolvidable que explora la fuerza, la redención y las consecuencias de desafiar a los mismos dioses."
+  },
+  {
+    "_id": {
+      "$oid": "655eb8371d507eca8096eb6d"
+    },
+    "Nombre": "Grand Theft Auto - vice city",
+    "Precio": 90,
+    "Genero": "Mundo abierto, Disparos",
+    "Reseña": "Grand Theft Auto: Vice City te sumerge en la vibrante y decadente ciudad de los años 80, donde asumes el papel de Tommy Vercetti, un criminal recién liberado que busca controlar el bajo mundo. En esta entrega de la icónica serie, la narrativa se desenvuelve entre traiciones, lujos y ambiciones, mientras exploras una amplia metrópolis bañada por el sol y la música de la época."
+  },
+  {
+    "_id": {
+      "$oid": "655eb8951d507eca8096eb6e"
+    },
+    "Nombre": "Grand Theft Auto 5",
+    "Precio": 90,
+    "Genero": "Mundo abierto, disparos",
+    "Reseña": "Grand Theft Auto V es una obra maestra de mundo abierto que te sumerge en la vertiginosa metrópolis de Los Santos. Siguiendo las vidas entrelazadas de tres protagonistas —Michael, Franklin y Trevor—, el juego te invita a explorar una vasta y detallada recreación de Los Ángeles y sus alrededores."
+  },
+  {
+    "_id": {
+      "$oid": "655eb8e61d507eca8096eb6f"
+    },
+    "Nombre": "Left 4 Dead",
+    "Precio": 60,
+    "Genero": "Zombies, Disparos",
+    "Reseña": "Left 4 Dead es un juego de supervivencia cooperativa que te sumerge en un apocalipsis zombie implacable. Formando parte de un equipo de cuatro supervivientes, tu misión es abrirte paso a través de hordas de infectados mientras buscas refugio en un mundo devastado. Con una acción frenética y táctica, el juego enfatiza la importancia de la colaboración y la toma de decisiones rápidas."
+  },
+  {
+    "_id": {
+      "$oid": "655eb94b1d507eca8096eb70"
+    },
+    "Nombre": "Assassins Creed 3 - Remastered",
+    "Precio": 50,
+    "Genero": "Mundo abierto, Sigilo, Asesinatos",
+    "Reseña": "Assassin's Creed III Remastered lleva a los jugadores a un fascinante viaje a través de la Revolución Americana con una calidad visual mejorada. Encarnando a Connor, un asesino mestizo con habilidades mortales, los jugadores exploran entornos expansivos, desde los bosques de la frontera hasta las calles bulliciosas de Boston."
+  },
+  {
+    "_id": {
+      "$oid": "655eb9eb1d507eca8096eb71"
+    },
+    "Nombre": "Halo - Reach",
+    "Precio": 50,
+    "Genero": "Disparos",
+    "Reseña": "Halo: Reach es un épico juego de disparos en primera persona que sirve como precuela de la icónica serie Halo. Ambientado en el planeta Reach, los jugadores asumen el papel del Noble Seis, un miembro del equipo Noble de élite, en medio de la feroz invasión del Covenant."
+  },
+  {
+    "_id": {
+      "$oid": "655eba421d507eca8096eb72"
+    },
+    "Nombre": "Resident Evil 2",
+    "Precio": 70,
+    "Genero": "Zombies, Disparos",
+    "Reseña": "Resident Evil 2 Remake redefine el survival horror al traer de vuelta la apasionante historia del clásico de 1998 con un nivel de detalle y terror renovados. Ambientado en Raccoon City, sumido en el caos por el brote del virus T, los jugadores asumen los roles alternos de Leon S. Kennedy y Claire Redfield, dos personajes atrapados en pesadillas individuales."
+  },
+  {
+    "_id": {
+      "$oid": "655ebaa21d507eca8096eb73"
+    },
+    "Nombre": "The Last Of Us",
+    "Precio": 80,
+    "Genero": "Zombies, Disparos",
+    "Reseña": "The Last of Us es una obra maestra del género de acción y supervivencia, que te sumerge en un mundo postapocalíptico devastado por una infección fungosa. La narrativa sigue a Joel, un contrabandista endurecido, y Ellie, una joven inmune al virus, mientras viajan a través de un Estados Unidos desolado en busca de un grupo de rebeldes conocidos como los Luciérnagas."
+  },
+  {
+    "_id": {
+      "$oid": "655ebafc1d507eca8096eb74"
+    },
+    "Nombre": "Brawl Star",
+    "Precio": 40,
+    "Genero": "Disparos",
+    "Reseña": "Brawl Stars es un electrizante juego de acción y estrategia desarrollado por Supercell. En este frenético juego multijugador, los jugadores eligen entre una variedad de Brawlers, cada uno con habilidades únicas, y se enfrentan en intensas batallas en tiempo real. Desde modos de juego clásicos como Gem Grab y Bounty hasta eventos especiales rotativos, la diversidad de modos y mapas mantiene la experiencia siempre fresca y emocionante."
+  },
+  {
+    "_id": {
+      "$oid": "655ebb3c1d507eca8096eb75"
+    },
+    "Nombre": "Wolf Team",
+    "Precio": 30,
+    "Genero": "Disparos",
+    "Reseña": "Wolf Team es un apasionante juego de disparos en primera persona que fusiona acción frenética con la emoción de la transformación entre humanos y lobos. En este mundo de combate futurista, los jugadores se unen a un equipo especializado que puede cambiar su forma entre soldados altamente entrenados y feroces lobos genéticamente mejorados."
+  },
+  {
+    "_id": {
+      "$oid": "655ebb961d507eca8096eb76"
+    },
+    "Nombre": "Fear 2 - Project Origin",
+    "Precio": 20,
+    "Genero": "Disparos, Survival Horror",
+    "Reseña": "F.E.A.R. 2: Project Origin es un juego de horror y disparos en primera persona que lleva la saga a nuevas alturas de tensión y emoción. Ambientado en un entorno aterrador y paranormal, el juego sigue la historia de Michael Becket mientras lucha contra amenazas sobrenaturales y oscuros experimentos."
+  },
+  {
+    "_id": {
+      "$oid": "655ebc251d507eca8096eb77"
+    },
+    "Nombre": "Smile Rancher 2",
+    "Precio": 28,
+    "Genero": "Disparos, Puzzles",
+    "Reseña": "Continúa las aventuras de Beatrix LeBeau mientras viaja a través del Mar de Limo hasta la Isla Arcoíris, una tierra repleta de misterios antiguos y repleta de nuevos y ondulantes limos con los que lidiar en esta secuela del exitoso Slime Rancher."
+  },
+  {
+    "_id": {
+      "$oid": "655ebc721d507eca8096eb78"
+    },
+    "Nombre": "Tomb Raider",
+    "Precio": 30,
+    "Genero": "Acción, Aventura",
+    "Reseña": "Tomb Raider reinventa la icónica serie al sumergir a los jugadores en los orígenes de la intrépida aventurera Lara Croft. Esta reimaginación presenta a una Lara más joven y vulnerable, varada en una misteriosa isla después de un naufragio. Con una narrativa intensa, el juego sigue la transformación de Lara de una arqueóloga inexperta a una superviviente valiente y astuta."
+  },
+  {
+    "_id": {
+      "$oid": "655ebcbb1d507eca8096eb79"
+    },
+    "Nombre": "Prey",
+    "Precio": 32,
+    "Genero": "Exploración, Disparos",
+    "Reseña": "Prey es un intrigante juego de acción y exploración que lleva a los jugadores a un futuro alternativo a bordo de la estación espacial Talos I. Encarnando a Morgan Yu, un protagonista amnésico, te despiertas en medio de un misterioso experimento que ha desatado una letal especie alienígena conocida como los Tifón."
+  },
+  {
+    "_id": {
+      "$oid": "655ebd1b1d507eca8096eb7a"
+    },
+    "Nombre": "Call Of Duty",
+    "Precio": 70,
+    "Genero": "Disparos, Acción",
+    "Reseña": "Call of Duty, una de las franquicias de videojuegos más influyentes, ha dejado una marca indeleble en el género de shooters en primera persona. Desde sus humildes comienzos ambientados en la Segunda Guerra Mundial hasta sus entregas más recientes explorando conflictos modernos y futuristas, Call of Duty se ha ganado una reputación por su acción trepidante, gráficos impresionantes y modos multijugador altamente competitivos."
+  },
+  {
+    "_id": {
+      "$oid": "655ebd691d507eca8096eb7b"
+    },
+    "Nombre": "Metal Gear Solid 3",
+    "Precio": 50,
+    "Genero": "Sigilo, Disparos, Acción",
+    "Reseña": "Metal Gear Solid 3: Snake Eater es una obra maestra del sigilo y la narrativa, que lleva a los jugadores a una épica misión en la Guerra Fría. Encarnando a Naked Snake (más tarde conocido como Big Boss), los jugadores se embarcan en una peligrosa misión en la jungla soviética para rescatar a un científico y enfrentarse a una conspiración internacional."
+  }]
